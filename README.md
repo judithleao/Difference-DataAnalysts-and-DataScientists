@@ -66,4 +66,4 @@ Link to Kaggle dataset: https://www.kaggle.com/andrewmvd/data-scientist-jobs fro
 
 ### Licensing, Authors, Acknowledgement
 Must give credit to Stackoverflow for the data. The Stackoverflow dataset was published under the Open Database License (ODbL).
-The Kaggle Dataset's license was not specified at source.
+The data in the Kaggle dataset is web scraped and provided for open use by the Author under MIT License.
