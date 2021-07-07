@@ -29,8 +29,10 @@ For people at the beginning of their career in data, it can be difficult to unde
 I published a blog post that relates to the analyses in this notebook here: XXX
 The blog post does not draw on all of the analyses present in this notebook.
 
+In summary, the data shows that Data Analyst and Data Scientist roles are rather distinct from each other. They are differentiated in their usage of tools/tech, where Data Analysts are heavier on SQL, BI tools/dashboards and Excel, and Data Scientists use more Python and Machine Learning tools.
+
 ## File descriptions
-There are two datasets, one notebook and the README file. Both datasets are used in the notebook.
+THis repository only contains the README file and one Notebook.
 
 ## How to make sense of this notebook:
 ### Structure of notebook:
