@@ -2,7 +2,18 @@ README
 
 # What is the difference between Data Analysts and Data Scientists?
 
+### Libraries
+The code uses the following libraries:
+* os
+* numpy
+* pandas
+* matplotlib.pyplot
+* matplotlib_venn
+* re
+* scipy.stats (ttest_ind_from_stats)
+* holoviews (opts, dim)
 
+## Intro
 ### Overall idea
 Understand the difference between the Data Scientist and the Data Analyst role
 
@@ -14,10 +25,14 @@ For people at the beginning of their career in data, it can be difficult to unde
 * If they are different, what is the difference?
 * Do job ads reflect this difference accurately?
 
-### Blog post
+### Results
 I published a blog post that relates to the analyses in this notebook here: XXX
 The blog post does not draw on all of the analyses present in this notebook.
 
+## File descriptions
+There are two datasets, one notebook and the README file. Both datasets are used in the notebook.
+
+## How to make sense of this notebook:
 ### Structure of notebook:
 The notebook consists of three main sections:
 * Preparations (e.g. importing libraries, reading in the data, defining functions)
@@ -42,10 +57,11 @@ Sections 1.1.1, 1.2 and 1.3 each contain a 3-way split analysis and a 2-way spli
 * Stackoverflow: Does either group want to use more of the tools that are important for the other role next year, indicating that this group seeks to develop into the other role?
 * Kaggle: Do tool/tech requirements become more or less similar the more senior a role is?
 
+## Data
 ### Data sources
 Link to Stackoverflow dataset: https://insights.stackoverflow.com/survey - downloaded 2020 survey results on 30/06.
 Link to Kaggle dataset: https://www.kaggle.com/andrewmvd/data-scientist-jobs from user _Larxel_. Downloaded on 30/06.
 
-### Licensing
-The Stackoverflow dataset was published under the Open Database License (ODbL).
+### Licensing, Authors, Acknowledgement
+Must give credit to Stackoverflow for the data. The Stackoverflow dataset was published under the Open Database License (ODbL).
 The Kaggle Dataset's license was not specified at source.
