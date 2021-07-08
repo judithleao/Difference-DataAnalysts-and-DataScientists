@@ -34,11 +34,14 @@ In summary, the data shows that Data Analyst and Data Scientist roles are rather
 ## File descriptions
 THis repository only contains the README file and one Notebook.
 
-## How to make sense of this notebook:
+## How to use this notebook:
+### Setting yourself up to run the notebook
+You need to download the data if you want to run the notebook. Please create a directory called 'data' that is at the same level as 'code' directory. Create a directory within 'data' called 'stackoverflow_survey' and save the datafile from Stack Overflow as *survey_results_public.csv* in it. Create a second directory withon 'data' called 'kaggle_ds_jobs' and save the datafile from Kaggle as *DataScientist.csv* in it.
+
 ### Structure of notebook:
 The notebook consists of three main sections:
 * Preparations (e.g. importing libraries, reading in the data, defining functions)
-* Part 1 - The Stackoverflow Data
+* Part 1 - The Stack Overflow Data
 * Part 2 - The Kaggle Job Data
 
 ##### Part 1 addresses the following questions:
@@ -54,16 +57,16 @@ Sections 1.1.1, 1.2 and 1.3 each contain a 3-way split analysis and a 2-way spli
 * Do tool/tech requirements in job ads differ for Data Analysts and Data Scientists (Question 2.1)?
 
 ### Other questions one could look at
-* Stackoverflow: Do people in smaller companies have to take on more different roles?
-* Stackoverflow: Do either Data Scientists or Data Analysts wish to use more *new* tools next year?
-* Stackoverflow: Does either group want to use more of the tools that are important for the other role next year, indicating that this group seeks to develop into the other role?
+* Stack Overflow: Do people in smaller companies have to take on more different roles?
+* Stack Overflow: Do either Data Scientists or Data Analysts wish to use more *new* tools next year?
+* Stack Overflow: Does either group want to use more of the tools that are important for the other role next year, indicating that this group seeks to develop into the other role?
 * Kaggle: Do tool/tech requirements become more or less similar the more senior a role is?
 
 ## Data
 ### Data sources
-Link to Stackoverflow dataset: https://insights.stackoverflow.com/survey - downloaded 2020 survey results on 30/06.
+Link to Stack Overflow dataset: https://insights.stackoverflow.com/survey - downloaded 2020 survey results on 30/06.
 Link to Kaggle dataset: https://www.kaggle.com/andrewmvd/data-scientist-jobs from user _Larxel_. Downloaded on 30/06.
 
 ### Licensing, Authors, Acknowledgement
-Must give credit to Stackoverflow for the data. The Stackoverflow dataset was published under the Open Database License (ODbL).
+Must give credit to Stack Overflow for the data. The Stack Overflow dataset was published under the Open Database License (ODbL).
 The data in the Kaggle dataset is web scraped and provided for open use by the Author under MIT License.
