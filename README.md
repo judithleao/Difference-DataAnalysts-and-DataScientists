@@ -4,14 +4,13 @@ README
 
 ### Libraries
 The code uses the following libraries:
-* os
 * numpy
 * pandas
 * matplotlib.pyplot
 * matplotlib_venn
 * re
 * scipy.stats (ttest_ind_from_stats)
-* holoviews (opts, dim)
+* holoviews (opts, dim) - using bokeh
 
 ## Intro
 ### Overall idea
@@ -32,7 +31,7 @@ The blog post does not draw on all of the analyses present in this notebook.
 In summary, the data shows that Data Analyst and Data Scientist roles are rather distinct from each other. They are differentiated in their usage of tools/tech, where Data Analysts are heavier on SQL, BI tools/dashboards and Excel, and Data Scientists use more Python and Machine Learning tools.
 
 ## File descriptions
-THis repository only contains the README file and one Notebook.
+This repository contains one notebook in the 'code' folder, the .gitignore and the README. See below to how to best set yourself up to run the notebook.
 
 ## How to use this notebook:
 ### Setting yourself up to run the notebook
