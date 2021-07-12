@@ -24,6 +24,14 @@ For people at the beginning of their career in data, it can be difficult to unde
 * If they are different, what is the difference?
 * Do job ads reflect this difference accurately?
 
+### CRISP-DM
+Each analysis is structured around
+* A business question
+* Previous understanding of whether the relevant data is contained in teh datasets
+* Data checking and wrangling
+* Charting and statistical interesting
+* Evaluation takes place in the blog post referenced below
+
 ### Results
 I published a blog post that relates to the analyses in this notebook here:
 https://medium.com/@leopold.judith/whats-the-difference-between-data-analysts-and-data-scientists-28533910d9c0
@@ -32,11 +40,15 @@ The blog post does not draw on all of the analyses present in this notebook.
 In summary, the data shows that Data Analyst and Data Scientist roles are rather distinct from each other. They are differentiated in their usage of tools/tech, where Data Analysts are heavier on SQL, BI tools/dashboards and Excel, and Data Scientists use more Python and Machine Learning tools.
 
 ## File descriptions
-This repository contains one notebook in the 'code' folder, the .gitignore and the README. See below to how to best set yourself up to run the notebook.
+This repository contains one notebook in the 'code' folder, the .gitignore and the README.
+It contains 2 datasets in the data folder:
+* The Stack Overflow data contains survey results from the stackoverflow developer survey on a respondent level.
+* The Kaggle data contains web-scraped data on job ads.
+See below to how to best set yourself up to run the notebook.
 
 ## How to use this notebook:
 ### Setting yourself up to run the notebook
-You need to download the data if you want to run the notebook. Please create a directory called 'data' that is at the same level as 'code' directory. Create a directory within 'data' called 'stackoverflow_survey' and save the datafile from Stack Overflow as *survey_results_public.csv* in it. Create a second directory withon 'data' called 'kaggle_ds_jobs' and save the datafile from Kaggle as *DataScientist.csv* in it.
+You can retrieve the data directly when cloning the repo. Otherwise, please create a directory called 'data' that is at the same level as 'code' directory. Create a directory within 'data' called 'stackoverflow_survey' and save the datafile from Stack Overflow as *survey_results_public.csv* in it. Create a second directory withon 'data' called 'kaggle_ds_jobs' and save the datafile from Kaggle as *DataScientist.csv* in it.
 
 ### Structure of notebook:
 The notebook consists of three main sections:
