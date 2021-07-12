@@ -1,6 +1,6 @@
-data
 **/*.ipynb_checkpoints/
 storyline-drafting.md
 blog-entry.md
-data
+data_zip_folders
+charts
 code/a1-v2.ipynb
