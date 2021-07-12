@@ -26,8 +26,7 @@ For people at the beginning of their career in data, it can be difficult to unde
 
 ### CRISP-DM
 Each analysis is structured around
-* A business question
-* Previous understanding of whether the relevant data is contained in teh datasets
+* A business question; Appropriate data (recent, large base size, contains all information to answer the question) was selected
 * Data checking and wrangling
 * Charting and statistical interesting
 * Evaluation takes place in the blog post referenced below
