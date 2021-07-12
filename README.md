@@ -70,3 +70,81 @@ Link to Kaggle dataset: https://www.kaggle.com/andrewmvd/data-scientist-jobs fro
 ### Licensing, Authors, Acknowledgement
 Must give credit to Stack Overflow for the data. The Stack Overflow dataset was published under the Open Database License (ODbL).
 The data in the Kaggle dataset is web scraped and provided for open use by the Author under MIT License.
+
+## Further References
+You can also find these references directly in the code, where the respective snippets are marked.
+**Acknowledgement for use of libraries:**
+**numpy**
+Harris, C.R., Millman, K.J., van der Walt, S.J. et al. "Array programming with NumPy", Nature 585, 357–362 (2020). DOI: 0.1038/s41586-020-2649-2.
+
+**pandas**
+Jeff Reback, jbrockmendel, Wes McKinney, Joris Van den Bossche, Tom Augspurger, Phillip Cloud, … chris-b1. (2021, June 22). pandas-dev/pandas: Pandas 1.2.5 (Version v1.2.5). Zenodo. http://doi.org/10.5281/zenodo.5013202
+
+Data structures for statistical computing in python, McKinney, Proceedings of the 9th Python in Science Conference, Volume 445, 2010, p.56 - 61, editors: Stefan van der Walt and Jarrod Millman. DOI: 10.25080/Majora-92bf1922-00a
+
+**matplotlib**
+J. D. Hunter, "Matplotlib: A 2D Graphics Environment", Computing in Science & Engineering, vol. 9, no. 3, pp. 90-95, 2007. DOI: 10.5281/zenodo.4475376
+
+**re**
+Van Rossum, G. (2020). The Python Library Reference, release 2021.7.6. Python Software Foundation.
+
+**holoviews**
+Philipp Rudiger, Jean-Luc Stevens, James A. Bednar, Bas Nijholt, Jon Mease, Andrew, … Lukas Barth. (2021, May 20). holoviz/holoviews: Version 1.14.4 (Version v1.14.4). Zenodo. http://doi.org/10.5281/zenodo.4775303
+
+**matplotlib_venn**
+Konstantin Tretyakov. Published under MIT license, release 0.11.6. Python Software Foundation.
+
+**scipy**
+Pauli Virtanen, Ralf Gommers, Travis E. Oliphant, Matt Haberland, Tyler Reddy, David Cournapeau, Evgeni Burovski, Pearu Peterson, Warren Weckesser, Jonathan Bright, Stéfan J. van der Walt, Matthew Brett, Joshua Wilson, K. Jarrod Millman, Nikolay Mayorov, Andrew R. J. Nelson, Eric Jones, Robert Kern, Eric Larson, CJ Carey, İlhan Polat, Yu Feng, Eric W. Moore, Jake VanderPlas, Denis Laxalde, Josef Perktold, Robert Cimrman, Ian Henriksen, E.A. Quintero, Charles R Harris, Anne M. Archibald, Antônio H. Ribeiro, Fabian Pedregosa, Paul van Mulbregt, and SciPy 1.0 Contributors. (2020) SciPy 1.0: Fundamental Algorithms for Scientific Computing in Python. Nature Methods, 17(3), 261-272.
+
+**Acknowledgements for use of entries in forums, blogs and similar:**
+Please find the according sections in the code marked with the respective number
+
+Please note that Stack Overflow content is is publicly accessible under the Creative Commons Attribution-ShareAlike license, more information can be found here: https://stackoverflow.com/help/licensing
+
+{1} Source: Stack Overflow Question by Boris, 18/03/2021. Profile: https://stackoverflow.com/users/3064538/boris Answer by Alex Martelli, 04/06/2021. Profile: https://stackoverflow.com/users/95810/alex-martelli Link to question: https://stackoverflow.com/questions/952914/how-to-make-a-flat-list-out-of-a-list-of-lists
+
+{2} Source: Stack Overflow Question by mkln, 19/09/2013. Profile: https://stackoverflow.com/users/2775630/mkln Answer from offbyone, 08/708/2014. Profile: https://stackoverflow.com/users/2808975/offbyone Link to question: https://stackoverflow.com/questions/18889588/create-dummies-from-column-with-multiple-values-in-pandas
+
+{3} Source: Programming education website finxter, no date: "Python endswith() Tutorial - Can we use regular expressions?" Blog entry by Dr. Christian Mayer: https://blog.finxter.com/regex-endswith-python/
+
+{4} Source: Stack Overflow Question by thatMeow, 17/12/2016. Profile: https://stackoverflow.com/users/7292363/thatmeow Answer by Psidom, 18/12/16. Profile: https://stackoverflow.com/users/4983450/psidom Link to question: https://stackoverflow.com/questions/41203959/conditionally-format-python-pandas-cell
+
+{5} Source: Stack Overflow Question by TheyChymera, 17/11/2013. Profile: https://stackoverflow.com/users/1893275/thechymera Answer by Cleb, 24/04/2018. Profile: https://stackoverflow.com/users/1534017/cleb Link to question: https://stackoverflow.com/questions/20025882/add-a-string-prefix-to-each-value-in-a-string-column-using-pandas
+
+{6} Source: scentellegher, 10/10/2018: "Beautiful bar plots with matplotlib" Blog entry by Simone Centellegher: https://scentellegher.github.io/visualization/2018/10/10/beautiful-bar-plots-matplotlib.html
+
+{7} Source: Stack Overflow Question by Tuutsrednas, 06/02/17. Profile: https://stackoverflow.com/users/7508150/tuutsrednas Answer by Ramon, 03/05/2020. Profile: https://stackoverflow.com/users/10647085/ramon
+
+{8} Source: holoviews.org Documentation of how to create a chord chart with example: https://holoviews.org/reference/elements/bokeh/Chord.html
+
+{9} Source: CoderzColumns, 12/07/2020: "How to Plot Chord Diagram in Python [holoviews]?" Used to understand design options for chord chart, specifically node color Blog entry by Sunny Solanki: https://coderzcolumn.com/tutorials/data-science/how-to-plot-chord-diagram-in-python-holoviews
+
+{10} Source: GitHub Question by brettChapman, 23/10/2018. Profile: https://github.com/brettChapman Answered by philippjfr, 26/11/2018. Profile: https://github.com/philippjfr Link to question: https://github.com/holoviz/holoviews/issues/3097
+
+{11} Source: Stack Overflow Question by user3084006, 13/12/2013. Profile: https://stackoverflow.com/users/3084006/user3084006 Answer by alko, 13/12/2013. Profile: https://stackoverflow.com/users/1265154/alko Link to question: https://stackoverflow.com/questions/20574257/constructing-a-co-occurrence-matrix-in-python-pandas
+
+{12} Source: Stack Overflow Question by EmJ, 12/08/2019. Profile: https://stackoverflow.com/users/10704050/emj Answer by jezrael, 12/08/2019. Profile: https://stackoverflow.com/users/2901002/jezrael Link to question: https://stackoverflow.com/questions/57456069/how-to-convert-a-co-occurrence-matrix-to-networkx-graph
+
+{13} Source: Stack Overflow Question by user1083734, 02/07/2013. Profile: https://stackoverflow.com/users/1083734/user1083734 Answer by Kirell, 30/11/2015. Profile: https://stackoverflow.com/users/699854/kirell Link to question: https://stackoverflow.com/questions/17426292/what-is-the-most-efficient-way-to-create-a-dictionary-of-two-pandas-dataframe-co
+
+{14} Source: Stack Overflow Question by Darknight, 19/12/2012. Profile: https://stackoverflow.com/users/929894/darknight Answer by Martijn Pieters, 19/12/2012. Profile: https://stackoverflow.com/users/100297/martijn-pieters Link to question: https://stackoverflow.com/questions/13954841/sort-list-of-strings-ignoring-upper-lower-case
+
+{15} Source: Stack Overflow Question by Vishal K Nair, 28/01/2018. Profile: https://stackoverflow.com/users/6485714/vishal-k-nair Answer by Andrew Hare, 28/01/2018. Profile: https://stackoverflow.com/users/34211/andrew-hare Link to question: https://stackoverflow.com/questions/48488712/case-insensitive-regex-in-python
+
+**Acknowledgements for websites used to create tool list:**
+no author, no date, Datapine.com: https://www.datapine.com/articles/best-bi-tools-software-review-list
+
+Rinu Gour, 22/05/2019, "Top 5 BI Tools Widely used for Data Visualization" in towards data science: https://towardsdatascience.com/top-5-bi-tools-that-you-must-use-for-data-visualization-7ccc2a852bd3
+
+Peter Sayer and Thor Olavsrud, 15/01/2021, "Top 12 BI tools of 2021" on CIO: https://www.cio.com/article/3322749/top-business-intelligence-bi-tools.html
+
+Bernard Marr, 22/05/2020, "The 9 Best Analytics Tools For Data Visualization Available Today" on Forbes: https://www.forbes.com/sites/bernardmarr/2020/05/22/the-9-best-analytics-tools-for-data-visualization-available-today/?sh=36ebb06a4743
+
+Pam Baker, 15/03/2015, "The Best Data Visualization Tools for 2020" on pcmag: https://uk.pcmag.com/cloud-services/83744/the-best-data-visualization-tools-for-2020
+
+Erin Gilliam Haije, 06/11/2019, "Top 15 Business Intelligence Tools in 2021: An Overview" on mopinion.com: https://mopinion.com/business-intelligence-bi-tools-overview/
+
+no author, no date, "Top Rated Business Intelligence (BI) Products" on trustradius.com: https://www.trustradius.com/business-intelligence-bino
+
+no author, no date, "Statistical Analysis Software" on Capterra.com: [Selection] https://www.capterra.com/statistical-analysis-software/
