@@ -73,6 +73,7 @@ The data in the Kaggle dataset is web scraped and provided for open use by the A
 
 ## Further References
 You can also find these references directly in the code, where the respective snippets are marked.
+
 **Acknowledgement for use of libraries:**
 **numpy**
 Harris, C.R., Millman, K.J., van der Walt, S.J. et al. "Array programming with NumPy", Nature 585, 357–362 (2020). DOI: 0.1038/s41586-020-2649-2.
@@ -98,6 +99,7 @@ Konstantin Tretyakov. Published under MIT license, release 0.11.6. Python Softwa
 Pauli Virtanen, Ralf Gommers, Travis E. Oliphant, Matt Haberland, Tyler Reddy, David Cournapeau, Evgeni Burovski, Pearu Peterson, Warren Weckesser, Jonathan Bright, Stéfan J. van der Walt, Matthew Brett, Joshua Wilson, K. Jarrod Millman, Nikolay Mayorov, Andrew R. J. Nelson, Eric Jones, Robert Kern, Eric Larson, CJ Carey, İlhan Polat, Yu Feng, Eric W. Moore, Jake VanderPlas, Denis Laxalde, Josef Perktold, Robert Cimrman, Ian Henriksen, E.A. Quintero, Charles R Harris, Anne M. Archibald, Antônio H. Ribeiro, Fabian Pedregosa, Paul van Mulbregt, and SciPy 1.0 Contributors. (2020) SciPy 1.0: Fundamental Algorithms for Scientific Computing in Python. Nature Methods, 17(3), 261-272.
 
 **Acknowledgements for use of entries in forums, blogs and similar:**
+
 Please find the according sections in the code marked with the respective number
 
 Please note that Stack Overflow content is is publicly accessible under the Creative Commons Attribution-ShareAlike license, more information can be found here: https://stackoverflow.com/help/licensing
@@ -133,6 +135,7 @@ Please note that Stack Overflow content is is publicly accessible under the Crea
 {15} Source: Stack Overflow Question by Vishal K Nair, 28/01/2018. Profile: https://stackoverflow.com/users/6485714/vishal-k-nair Answer by Andrew Hare, 28/01/2018. Profile: https://stackoverflow.com/users/34211/andrew-hare Link to question: https://stackoverflow.com/questions/48488712/case-insensitive-regex-in-python
 
 **Acknowledgements for websites used to create tool list:**
+
 no author, no date, Datapine.com: https://www.datapine.com/articles/best-bi-tools-software-review-list
 
 Rinu Gour, 22/05/2019, "Top 5 BI Tools Widely used for Data Visualization" in towards data science: https://towardsdatascience.com/top-5-bi-tools-that-you-must-use-for-data-visualization-7ccc2a852bd3
