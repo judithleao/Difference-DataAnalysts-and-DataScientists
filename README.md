@@ -25,7 +25,8 @@ For people at the beginning of their career in data, it can be difficult to unde
 * Do job ads reflect this difference accurately?
 
 ### Results
-I published a blog post that relates to the analyses in this notebook here: XXX
+I published a blog post that relates to the analyses in this notebook here:
+https://medium.com/@leopold.judith/whats-the-difference-between-data-analysts-and-data-scientists-28533910d9c0
 The blog post does not draw on all of the analyses present in this notebook.
 
 In summary, the data shows that Data Analyst and Data Scientist roles are rather distinct from each other. They are differentiated in their usage of tools/tech, where Data Analysts are heavier on SQL, BI tools/dashboards and Excel, and Data Scientists use more Python and Machine Learning tools.
