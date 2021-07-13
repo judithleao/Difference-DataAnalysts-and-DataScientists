@@ -27,9 +27,10 @@ For people at the beginning of their career in data, it can be difficult to unde
 ### CRISP-DM
 Each analysis is structured around
 * A business question; Appropriate data (recent, large base size, contains all information to answer the question) was selected
-* Data checking and wrangling
-* Charting and statistical interesting
-* Evaluation takes place in the blog post referenced below
+* Data Understanding
+* Data Preparation
+* Result Evaluation, including charting, statistical significance testing and conclusions
+Please note that some of the analyses share a first data preparation step, but subsequently _also_ require question- or even sub-question-specific data preparation. This means that for a particular result evaluation, there might be multipe data preparation steps. All these sections are clearly marked in the notebook.
 
 ### Results
 I published a blog post that relates to the analyses in this notebook here:
@@ -56,11 +57,11 @@ The notebook consists of three main sections:
 * Part 2 - The Kaggle Job Data
 
 ##### Part 1 addresses the following questions:
-* How distinctive are the Data Analyst and the Data Scientist roles from each other (Question 1.1.1) and from other roles in the wider field (Question 1.1.2)?
+* How distinctive are the Data Analyst and the Data Scientist roles from each other and from other roles in the wider field (Question 1.1)?
 * Do tools used by Data Analysts differ from tools used by Data Scientists (Question 1.2)?
 * Do tools that Data Analysts and Data Scientists want to use next year differ (Question 1.3)?
 
-Sections 1.1.1, 1.2 and 1.3 each contain a 3-way split analysis and a 2-way split analysis. This refers to the definition of the samples:
+Sections 1.1, 1.2 and 1.3 each contain a 3-way split analysis and a 2-way split analysis. This refers to the definition of the samples:
 * In the **3-way split analysis**, respondents are defined as *Data Analyst only*, *Data Scientist only* and *Data Analyst and Data Scientist*. The "only" means that roles *other* than the Data Analyst/Data Scientist role can still be included, i.e. someone who is a Data Analyst and a back-end Developer still counts as *Data Analyst only*. The 3-way split is necessary to obtain independent samples for Data Analysts and Data Scientists to allow for significance testing.
 * In the **2-way split analysis**, repondents are defined as *Data Analyst* and/or *Data Scientist*. A respondent who is both is in both samples. The samples are therefore overlapping, i.e. not independent, and no significance testing was done.
 
